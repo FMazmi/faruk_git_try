@@ -1,2 +1,2 @@
-#exclude 
+#ignore ALL .log files
 my-note.txt
